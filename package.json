@@ -45,12 +45,8 @@
         }
     },
     "lint-staged": {
-        "*.{js,ts,jsx,tsx}": [
+        "storybook/**/*.{js,ts,jsx,tsx,json}": [
             "npm run lint"
-        ],
-        "*.json": [
-            "prettier --write"
-        ],
-        "*.js": "eslint --cache --fix"
+        ]
     }
 }
