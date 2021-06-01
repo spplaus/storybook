@@ -1,0 +1,39 @@
+{
+    "color": {
+      "brand": {
+        "easternBlue": {
+          "value": "#1F97AE"
+        },
+        "white": {
+          "value": "#FFFFFF"
+        }
+     },
+     "title": {
+      "blackCow": {
+        "value": "#4a4a4a"
+      }
+     },
+     "label": {
+       "carbonGrey": {
+         "value": "#5a5a5a"
+       },
+       "roseMadder": {
+         "value": "#da262c"
+       },
+       "greenGrey": {
+        "value": "#6a976b"
+      }
+     },
+     "border": {
+       "dawnPink": {
+         "value": "#ebebeb"
+       },
+       "greenGrey": {
+         "value": "#6a976b"
+       },
+       "roseMadder": {
+        "value": "#da262c"
+      }
+     }
+    }
+}

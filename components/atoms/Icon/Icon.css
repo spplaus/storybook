@@ -1,0 +1,19 @@
+.size--icon-small {
+    width: var(--size-icon-small);
+    padding-right: 6px;
+  }
+
+  .size--icon-medium {
+    width: var(--size-icon-medium);
+    padding-right: 8px;
+  }
+
+  .size--icon-large {
+    width: var(--size-icon-large);
+    padding-right: 10px;
+  }
+
+  .size--icon-xlarge {
+    width: var(--size-icon-xlarge);
+    padding-right: 20px;
+  }

@@ -1,0 +1,90 @@
+{
+    "font": {
+      "family": {
+        "sans": {
+          "value": "Open Sans,sans-serif"
+        },
+        "serif" : {
+          "value": "Roboto Slab, Times New Roman, serif"
+        },
+        "mono": {
+            "value": "Roboto Mono, Consolas, monospace"
+        }
+      }
+    },
+    "size": {
+      "font": {
+        "base"  : {
+          "value": "{size.font.small.value}"
+        },
+        "small" : {
+          "value": "1"
+        },
+        "medium": {
+          "value": "1.125"
+        },
+        "large" : {
+          "value": "1.25"
+        }
+      }
+    },
+    "title": {
+      "font": {
+        "base": {
+          "value": ".9375"
+        }
+      }
+    },
+    "label": {
+      "font": {
+        "base": {
+          "value": ".625rem"
+        }
+      }
+    },
+    "label-font": {
+       "weigth":{
+        "normal": {
+          "value": "400"
+        },
+        "medium": {
+          "value": "500"
+        },
+        "semibold": {
+          "value": "600"
+        },
+        "bold": {
+          "value": "700"
+        }
+       }
+    },
+    "weigthFont": {
+      "thin": {
+        "value": "100"
+      },
+      "extralight": {
+        "value": "200"
+      },
+      "light": {
+          "value": "300"
+      },
+      "normal": {
+        "value": "400"
+      },
+      "medium": {
+        "value": "500"
+      },
+      "semibold": {
+        "value": "600"
+      },
+      "bold": {
+        "value": "700"
+      },
+      "extrabold": {
+        "value": "800"
+      },
+      "black": {
+        "value": "900"
+      }
+    }
+  }

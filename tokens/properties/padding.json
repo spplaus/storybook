@@ -1,0 +1,18 @@
+{
+    "padding": {
+      "small": {
+        "value": "0.438rem 1.125rem"
+      },
+      "medium": {
+        "value": "0.563rem 1.25rem"
+      },
+      "large": {
+        "value": "0.688rem 1.375rem"
+      },
+      "notification-box": {
+        "base": {
+          "value": "0.625rem 1.875rem"
+        }
+      }
+    }
+  }
